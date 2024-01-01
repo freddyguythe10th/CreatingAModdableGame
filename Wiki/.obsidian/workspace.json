@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "10931373fcbfd971",
+    "type": "split",
+    "children": [
+      {
+        "id": "4268936cb30cb740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf652deb9fab3d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1944b1ed42b1d345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating A Mod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6860f30a9fde840e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating A Mod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8808d156ccb2b4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Built-in Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ffa3a371384c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adding your mod to the game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fbf21ad38d9fbcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05b343ade4f2d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108c66602b5c767d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be4305b9737bbb37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "643aa9f262c2279a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a4cf83af5c6fa70",
+    "type": "split",
+    "children": [
+      {
+        "id": "5073375b5fbd4a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3afa8de4d32d99c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adding your mod to the game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f5e8f90a0bbd144",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adding your mod to the game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c7cec114ee9f16f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f092c4de6f9d5f03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adding your mod to the game.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87ffa3a371384c22",
+  "lastOpenFiles": [
+    "Built-in Methods.md",
+    "Adding your mod to the game.md",
+    "Internal Code.md",
+    "Pasted image 20240101155528.png",
+    "Creating A Mod.md",
+    "Pasted image 20240101153720.png",
+    "Pasted image 20240101153617.png",
+    "Pasted image 20240101153449.png"
+  ]
+}
